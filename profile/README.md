@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-	  <img src="https://cdn.max9632.cc/r/innova_banner.png" width="546" alt="Innova" /></a>
+	  <img src="https://cdn.innova-rbx.xyz/u/29WMui.jpg" width="546" alt="Innova" /></a>
 	</p>
 </div>
 
